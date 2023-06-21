@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Space+Mono&display=swap');
+* {
+    box-sizing: border-box;
+    background-color: #FFD89C;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 5px 5px #F86F03;
+    font-family: 'Space Mono', monospace;
+}
+
+h3 {
+    text-align: center;
+}
+
+div {
+    text-align: justify;
+}
+
+.fb {
+    border: 1px solid black;
+    padding: 3px;
+    width: 350px;
+    height: 250px;
+    margin-left: 400px;
+    background-color: #1A6ED8;
+    font-family: 'Oswald', sans-serif;
+    box-shadow: -7px -7px #6097e4;
+}
+.ig {
+    border: 1px solid black;
+    padding: 3px;
+    width: 350px;
+    height: 250px;
+    margin-left: 750px;
+    background-color: #D205E5;
+    font-family: 'Oswald', sans-serif;
+    box-shadow: 7px -7px #62549F;
+}
+.tt {
+    border: 1px solid black;
+    padding: 3px;
+    width: 350px;
+    height: 250px;
+    margin-left: 400px;
+    background-color: #56BCC5;
+    font-family: 'Oswald', sans-serif;
+    box-shadow: -7px -7px #FE2C55;
+}
+.yt {
+    border: 1px solid black;
+    padding: 3px;
+    width: 350px;
+    height: 250px;
+    margin-left: 750px;
+    background-color: #FE0000;
+    font-family: 'Oswald', sans-serif;
+    box-shadow: 7px -7px black;
+}
+
+a {
+    text-decoration: none;
+}
